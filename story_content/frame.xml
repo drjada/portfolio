@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="simulation" />
+              <option name="title_text" value="The Product Launch Dilemma" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1594,6 +1594,7 @@
             <slidelink slideid="_player.6VNxFczgvh2.5c3vhUQR6y2" displaytext="Decision Round 3" expand="false" type="slide" />
             <slidelink slideid="_player.6VNxFczgvh2.5zs3qqr4pln" displaytext="Outcome Dashboard" expand="false" type="slide" />
             <slidelink slideid="_player.6VNxFczgvh2.6avFukNKvIW" displaytext="Debrief" expand="false" type="slide" />
+            <slidelink slideid="_player.6VNxFczgvh2.6CNCrCHtaq4" displaytext="The End" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
